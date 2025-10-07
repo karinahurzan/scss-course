@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/*  Отримуємо значення з мапи */
+body {
+  background-color: #e9e9e9;
+}
+
+/*
+   Перевикористовуємо мапу кольорів
+   для стилізації кнопки
+*/
+.button {
+  color: #8e3329;
+  background-color: #e9e9e9;
+}
+
+/* Генеруємо набір класів повідомлень */
+.alert-primary {
+  background-color: #f07f2e;
+}
+
+.alert-success {
+  background-color: #82c43c;
+}
+
+.alert-danger {
+  background-color: #fc5a5a;
+}
+
+.alert-warning {
+  background-color: #a461d8;
+}
+
+.alert-info {
+  background-color: #4e75ff;
+}
